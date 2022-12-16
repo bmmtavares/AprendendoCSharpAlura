@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp3.1\TestaEscopo.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp3.1\TestaEscopo.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp3.1\TestaEscopo.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp3.1\TestaEscopo.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp3.1\TestaEscopo.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp3.1\TestaEscopo.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp3.1\TestaEscopo.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp3.1\TestaEscopo.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp3.1\TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp3.1\TestaEscopo.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp3.1\TestaEscopo.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp3.1\TestaEscopo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\bin\Debug\netcoreapp3.1\13-EncadeandoFor.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\bin\Debug\netcoreapp3.1\13-EncadeandoFor.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\bin\Debug\netcoreapp3.1\13-EncadeandoFor.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\bin\Debug\netcoreapp3.1\13-EncadeandoFor.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\bin\Debug\netcoreapp3.1\13-EncadeandoFor.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\bin\Debug\netcoreapp3.1\13-EncadeandoFor.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\obj\Debug\netcoreapp3.1\13-EncadeandoFor.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\obj\Debug\netcoreapp3.1\13-EncadeandoFor.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\obj\Debug\netcoreapp3.1\13-EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\obj\Debug\netcoreapp3.1\13-EncadeandoFor.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\obj\Debug\netcoreapp3.1\13-EncadeandoFor.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\obj\Debug\netcoreapp3.1\13-EncadeandoFor.genruntimeconfig.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\13-EncadeandoFor\obj\Debug\netcoreapp3.1\13-EncadeandoFor.csprojAssemblyReference.cache

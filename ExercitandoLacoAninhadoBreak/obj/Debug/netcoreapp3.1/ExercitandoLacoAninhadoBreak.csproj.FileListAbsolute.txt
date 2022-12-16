@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\bin\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\bin\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\bin\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\bin\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\bin\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\bin\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\obj\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\obj\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\obj\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\obj\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\obj\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\ExercitandoLacoAninhadoBreak\obj\Debug\netcoreapp3.1\ExercitandoLacoAninhadoBreak.genruntimeconfig.cache

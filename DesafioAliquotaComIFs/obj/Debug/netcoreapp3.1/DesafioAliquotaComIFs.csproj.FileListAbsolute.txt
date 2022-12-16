@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\bin\Debug\netcoreapp3.1\DesafioAliquotaComIFs.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\bin\Debug\netcoreapp3.1\DesafioAliquotaComIFs.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\bin\Debug\netcoreapp3.1\DesafioAliquotaComIFs.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\bin\Debug\netcoreapp3.1\DesafioAliquotaComIFs.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\bin\Debug\netcoreapp3.1\DesafioAliquotaComIFs.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\bin\Debug\netcoreapp3.1\DesafioAliquotaComIFs.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\obj\Debug\netcoreapp3.1\DesafioAliquotaComIFs.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\obj\Debug\netcoreapp3.1\DesafioAliquotaComIFs.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\obj\Debug\netcoreapp3.1\DesafioAliquotaComIFs.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\obj\Debug\netcoreapp3.1\DesafioAliquotaComIFs.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\obj\Debug\netcoreapp3.1\DesafioAliquotaComIFs.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioAliquotaComIFs\obj\Debug\netcoreapp3.1\DesafioAliquotaComIFs.genruntimeconfig.cache

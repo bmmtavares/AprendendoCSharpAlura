@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.genruntimeconfig.cache

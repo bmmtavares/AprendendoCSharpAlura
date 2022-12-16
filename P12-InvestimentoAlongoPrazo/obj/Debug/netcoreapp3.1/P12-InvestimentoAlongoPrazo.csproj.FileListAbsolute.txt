@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\bin\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P12-InvestimentoAlongoPrazo\obj\Debug\netcoreapp3.1\P12-InvestimentoAlongoPrazo.genruntimeconfig.cache

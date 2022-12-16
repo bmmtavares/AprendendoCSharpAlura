@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-ConversoesEOutrosTipos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTipos.genruntimeconfig.cache

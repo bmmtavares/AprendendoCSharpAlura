@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\netcoreapp3.1\LacoDeRepeticaoWhile.genruntimeconfig.cache

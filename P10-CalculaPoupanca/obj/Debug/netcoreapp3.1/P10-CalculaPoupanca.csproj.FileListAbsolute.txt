@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\netcoreapp3.1\4-TestaPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\netcoreapp3.1\4-TestaPontoFlutuante.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\netcoreapp3.1\4-TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\netcoreapp3.1\4-TestaPontoFlutuante.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\netcoreapp3.1\4-TestaPontoFlutuante.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\netcoreapp3.1\4-TestaPontoFlutuante.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\netcoreapp3.1\4-TestaPontoFlutuante.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\netcoreapp3.1\4-TestaPontoFlutuante.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\netcoreapp3.1\4-TestaPontoFlutuante.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\netcoreapp3.1\4-TestaPontoFlutuante.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\netcoreapp3.1\4-TestaPontoFlutuante.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\netcoreapp3.1\4-TestaPontoFlutuante.genruntimeconfig.cache

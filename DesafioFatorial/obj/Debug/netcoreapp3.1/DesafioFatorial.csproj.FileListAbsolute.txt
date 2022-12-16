@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\netcoreapp3.1\DesafioFatorial.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\netcoreapp3.1\DesafioFatorial.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\netcoreapp3.1\DesafioFatorial.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\netcoreapp3.1\DesafioFatorial.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\netcoreapp3.1\DesafioFatorial.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\netcoreapp3.1\DesafioFatorial.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\netcoreapp3.1\DesafioFatorial.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\netcoreapp3.1\DesafioFatorial.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\netcoreapp3.1\DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\netcoreapp3.1\DesafioFatorial.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\netcoreapp3.1\DesafioFatorial.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\netcoreapp3.1\DesafioFatorial.genruntimeconfig.cache

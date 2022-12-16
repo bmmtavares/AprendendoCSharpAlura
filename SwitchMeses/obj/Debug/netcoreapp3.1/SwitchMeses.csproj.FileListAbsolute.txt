@@ -1,0 +1,12 @@
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\bin\Debug\netcoreapp3.1\SwitchMeses.exe
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\bin\Debug\netcoreapp3.1\SwitchMeses.deps.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\bin\Debug\netcoreapp3.1\SwitchMeses.runtimeconfig.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\bin\Debug\netcoreapp3.1\SwitchMeses.runtimeconfig.dev.json
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\bin\Debug\netcoreapp3.1\SwitchMeses.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\bin\Debug\netcoreapp3.1\SwitchMeses.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\obj\Debug\netcoreapp3.1\SwitchMeses.AssemblyInfoInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\obj\Debug\netcoreapp3.1\SwitchMeses.AssemblyInfo.cs
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\obj\Debug\netcoreapp3.1\SwitchMeses.csproj.CoreCompileInputs.cache
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\obj\Debug\netcoreapp3.1\SwitchMeses.dll
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\obj\Debug\netcoreapp3.1\SwitchMeses.pdb
+C:\Users\bmacedo\source\repos\AprendendoCSharp\SwitchMeses\obj\Debug\netcoreapp3.1\SwitchMeses.genruntimeconfig.cache
